@@ -44,7 +44,7 @@ The website is designed to work across:
 - Desktop screens
 
 ## 📂 Project Structure
-
+```text
 kidkinder-education-website/
 │
 ├── index.html
@@ -68,7 +68,7 @@ kidkinder-education-website/
     ├── blog-1.jpg
     ├── blog-2.jpg
     └── blog-3.jpg
-
+```
 ## 🎓 Course
 
 This project was developed as part of my
